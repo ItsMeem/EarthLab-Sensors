@@ -1,0 +1,14 @@
+c:\users\shamim\documents\visual studio 2010\Projects\EarthLab2\EarthLab2\bin\Debug\EarthLab2.exe
+c:\users\shamim\documents\visual studio 2010\Projects\EarthLab2\EarthLab2\bin\Debug\EarthLab2.pdb
+c:\users\shamim\documents\visual studio 2010\Projects\EarthLab2\EarthLab2\bin\Debug\EarthLab2.xml
+c:\users\shamim\documents\visual studio 2010\Projects\EarthLab2\EarthLab2\bin\Debug\AGauge.dll
+c:\users\shamim\documents\visual studio 2010\Projects\EarthLab2\EarthLab2\obj\x86\Debug\EarthLab2.Form1.resources
+c:\users\shamim\documents\visual studio 2010\Projects\EarthLab2\EarthLab2\obj\x86\Debug\EarthLab2.Resources.resources
+c:\users\shamim\documents\visual studio 2010\Projects\EarthLab2\EarthLab2\obj\x86\Debug\EarthLab2.vbproj.GenerateResource.Cache
+c:\users\shamim\documents\visual studio 2010\Projects\EarthLab2\EarthLab2\obj\x86\Debug\EarthLab2.exe
+c:\users\shamim\documents\visual studio 2010\Projects\EarthLab2\EarthLab2\obj\x86\Debug\EarthLab2.xml
+c:\users\shamim\documents\visual studio 2010\Projects\EarthLab2\EarthLab2\obj\x86\Debug\EarthLab2.pdb
+c:\users\shamim\documents\visual studio 2010\Projects\EarthLab2\EarthLab2\bin\Debug\EarthLab2.exe.manifest
+c:\users\shamim\documents\visual studio 2010\Projects\EarthLab2\EarthLab2\bin\Debug\EarthLab2.application
+c:\users\shamim\documents\visual studio 2010\Projects\EarthLab2\EarthLab2\obj\x86\Debug\EarthLab2.exe.manifest
+c:\users\shamim\documents\visual studio 2010\Projects\EarthLab2\EarthLab2\obj\x86\Debug\EarthLab2.application
